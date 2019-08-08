@@ -21,6 +21,7 @@ class CategoryViewModel {
         } catch {
             print("error:\(error)")
             print("error")
+            print("branch")
         }
     }
 }

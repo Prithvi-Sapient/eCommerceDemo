@@ -1,0 +1,283 @@
+
+[
+    {
+        "id": 1,
+        "name": "McSaver Meals",
+        "imageURL": "mcchicken",
+        "authRequired": true,
+        "products": [
+            {
+                "id": 1,
+                "authRequired": true,
+                "name": "McSaver Big Spicy",
+                "imageURL": "mcchicken",
+                "price": 22.55,
+                "description": "McSaver Big Spicy Chicken Wrap Meal."
+            },
+            {
+                "id": 2,
+                "authRequired": false,
+                "name": "McSaver Chicken",
+                "imageURL": "mc3",
+                "price": 552.5,
+                "description": "McSaver Chicken Maharaj Mac Meal."
+            },
+            {
+                "id": 3,
+                "authRequired": false,
+                "name": "McSaver Veg",
+                "imageURL": "side",
+                "price": 552.5,
+                "description": "McSaver Veg Maharaj Mac Meal"
+            },
+            {
+                "id": 4,
+                "authRequired": true,
+                "name": "McSaver Paneer",
+                "imageURL": "meals",
+                "price": 552.5,
+                "description": "McSaver Veg Paneer Mac Meal"
+            },
+            {
+                "id": 5,
+                "authRequired": false,
+                "name": "McSaver McSpicy",
+                "imageURL": "bg",
+                "price": 552.5,
+                "description": "McSaver McSpicy Mac Meal Full"
+            },
+            {
+                "id": 6,
+                "authRequired": false,
+                "name": "McSaver Whole Wheat",
+                "imageURL": "happy",
+                "price": 552.5,
+                "description": "McSaver McSpicy Paneer whole wheat Mac Meal"
+            },
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Burger & Wraps",
+        "imageURL": "mc3",
+        "authRequired": false,
+        "products": [
+            {
+                "id": 51,
+                "authRequired": true,
+                "name": "Tikki",
+                "imageURL": "mcchicken",
+                "price": 20.55,
+                "description": "Tikki is made using Tandoor",
+            },
+            {
+                "id": 52,
+                "authRequired": false,
+                "name": "mc3",
+                "imageURL": "meals",
+                "price": 5.5,
+                "description": "Double Chicken slices",
+            },
+            {
+                "id": 53,
+                "authRequired": true,
+                "name": "Mc_Meal",
+                "imageURL": "side",
+                "price": 500.5,
+                "description": "The delight full Mc_Meal to fill your stomach.",
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Value Meals",
+        "imageURL": "happy",
+        "authRequired": true,
+        "products": [
+            {
+                "id": 51,
+                "authRequired": false,
+                "name": "Tikki",
+                "imageURL": "happy",
+                "price": 20.55,
+                "description": "Tikki is made using Tandoor"
+            },
+            {
+                "id": 52,
+                "authRequired": true,
+                "name": "Mc_Chicken",
+                "imageURL": "mc3",
+                "price": 5.5,
+                "description": "Double Chicken slices"
+            },
+            {
+                "id": 53,
+                "authRequired": false,
+                "name": "Mc_Meal",
+                "imageURL": "bg",
+                "price": 500.5,
+                "description": "The delight full Mc_Meal to fill your stomach."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Happy Meals",
+        "imageURL": "meals",
+        "authRequired": false,
+        "products": [
+            {
+                "id": 51,
+                "authRequired": true,
+                "name": "Tikki",
+                "imageURL": "mc3",
+                "price": 20.55,
+                "description": "Tikki is made using Tandoor"
+            },
+            {
+                "id": 52,
+                "authRequired": true,
+                "name": "Mc_Chicken",
+                "imageURL": "mcchicken",
+                "price": 5.5,
+                "description": "Double Chicken slices"
+            },
+            {
+                "id": 53,
+                "authRequired": false,
+                "name": "Mc_Meal",
+                "imageURL": "bg",
+                "price": 500.5,
+                "description": "The delight full Mc_Meal to fill your stomach."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Happy Day Meals",
+        "imageURL": "side",
+        "authRequired": true,
+        "products": [
+            {
+                "id": 51,
+                "authRequired": true,
+                "name": "Tikki",
+                "imageURL": "meals",
+                "price": 20.55,
+                "description": "Tikki is made using Tandoor"
+            },
+            {
+                "id": 52,
+                "authRequired": false,
+                "name": "Mc_Chicken",
+                "imageURL": "happy",
+                "price": 5.5,
+                "description": "Double Chicken slices"
+            },
+            {
+                "id": 53,
+                "authRequired": false,
+                "name": "Mc_Meal",
+                "imageURL": "mcchicken",
+                "price": 500.5,
+                "description": "The delight full Mc_Meal to fill your stomach."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Breakfast Deals",
+        "imageURL": "bg",
+        "authRequired": false,
+        "products": [
+            {
+                "id": 51,
+                "authRequired": true,
+                "name": "Tikki",
+                "imageURL": "mc3",
+                "price": 20.55,
+                "description": "Tikki is made using Tandoor"
+            },
+            {
+                "id": 52,
+                "authRequired": false,
+                "name": "Mc_Chicken",
+                "imageURL": "meals",
+                "price": 5.5,
+                "description": "Double Chicken slices"
+            },
+            {
+                "id": 53,
+                "authRequired": true,
+                "name": "Mc_Meal",
+                "imageURL": "bg",
+                "price": 500.5,
+                "description": "The delight full Mc_Meal to fill your stomach."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Beverages",
+        "imageURL": "mcchicken",
+        "authRequired": false,
+        "products": [
+            {
+                "id": 51,
+                "authRequired": true,
+                "name": "Tikki",
+                "imageURL": "side",
+                "price": 20.55,
+                "description": "Tikki is made using Tandoor"
+            },
+            {
+                "id": 52,
+                "authRequired": true,
+                "name": "Mc_Chicken",
+                "imageURL": "mc3",
+                "price": 5.5,
+                "description": "Double Chicken slices"
+            },
+            {
+                "id": 53,
+                "authRequired": false,
+                "name": "Mc_Meal",
+                "imageURL": "bg",
+                "price": 500.5,
+                "description": "The delight full Mc_Meal to fill your stomach."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Two Piece Meals",
+        "imageURL": "mc3",
+        "authRequired": true,
+        "products": [
+            {
+                "id": 51,
+                "authRequired": true,
+                "name": "Tikki",
+                "imageURL": "mcchicken",
+                "price": 20.55,
+                "description": "Tikki is made using Tandoor"
+            },
+            {
+                "id": 52,
+                "authRequired": true,
+                "name": "Mc_Chicken",
+                "imageURL": "meals",
+                "price": 5.5,
+                "description": "Double Chicken slices"
+            },
+            {
+                "id": 53,
+                "authRequired": false,
+                "name": "Mc_Meal",
+                "imageURL": "bg",
+                "price": 500.5,
+                "description": "The delight full Mc_Meal to fill your stomach."
+            }
+        ]
+    }
+]

@@ -20,6 +20,7 @@ class CategoryViewModel {
             completion(jsonData)
         } catch {
             print("error:\(error)")
+            print("error")
         }
     }
 }
